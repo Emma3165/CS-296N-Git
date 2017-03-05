@@ -1,0 +1,46 @@
+C:\Courses\CS295CSharp\MultiPageSites\MyEventStuff\EventTestClasses\obj\Debug\EventTestClasses.csprojResolveAssemblyReference.cache
+C:\Courses\CS295CSharp\MultiPageSites\MyEventStuff\EventTestClasses\bin\Debug\EventTestClasses.dll
+C:\Courses\CS295CSharp\MultiPageSites\MyEventStuff\EventTestClasses\bin\Debug\EventTestClasses.pdb
+C:\Courses\CS295CSharp\MultiPageSites\MyEventStuff\EventTestClasses\bin\Debug\EventClasses.dll
+C:\Courses\CS295CSharp\MultiPageSites\MyEventStuff\EventTestClasses\bin\Debug\EventDBClasses.dll
+C:\Courses\CS295CSharp\MultiPageSites\MyEventStuff\EventTestClasses\bin\Debug\EventPropsClasses.dll
+C:\Courses\CS295CSharp\MultiPageSites\MyEventStuff\EventTestClasses\bin\Debug\nunit.framework.dll
+C:\Courses\CS295CSharp\MultiPageSites\MyEventStuff\EventTestClasses\bin\Debug\ToolsCSharp.dll
+C:\Courses\CS295CSharp\MultiPageSites\MyEventStuff\EventTestClasses\bin\Debug\EventClasses.pdb
+C:\Courses\CS295CSharp\MultiPageSites\MyEventStuff\EventTestClasses\bin\Debug\EventDBClasses.pdb
+C:\Courses\CS295CSharp\MultiPageSites\MyEventStuff\EventTestClasses\bin\Debug\EventPropsClasses.pdb
+C:\Courses\CS295CSharp\MultiPageSites\MyEventStuff\EventTestClasses\bin\Debug\ToolsCSharp.pdb
+C:\Courses\CS295CSharp\MultiPageSites\MyEventStuff\EventTestClasses\bin\Debug\nunit.framework.xml
+C:\Courses\CS295CSharp\MultiPageSites\MyEventStuff\EventTestClasses\obj\Debug\EventTestClasses.dll
+C:\Courses\CS295CSharp\MultiPageSites\MyEventStuff\EventTestClasses\obj\Debug\EventTestClasses.pdb
+C:\Courses\CS234CSharp\Demos\FrameworkExampleEvent\EventTestClasses\obj\Debug\EventTestClasses.csprojResolveAssemblyReference.cache
+C:\Courses\CS234CSharp\Demos\FrameworkExampleEvent\EventTestClasses\obj\Debug\EventTestClasses.dll
+C:\Courses\CS234CSharp\Demos\FrameworkExampleEvent\EventTestClasses\obj\Debug\EventTestClasses.pdb
+C:\Courses\CS234CSharp\Demos\FrameworkExampleEvent\EventTestClasses\bin\Debug\EventTestClasses.dll
+C:\Courses\CS234CSharp\Demos\FrameworkExampleEvent\EventTestClasses\bin\Debug\EventTestClasses.pdb
+C:\Courses\CS234CSharp\Demos\FrameworkExampleEvent\EventTestClasses\bin\Debug\EventClasses.dll
+C:\Courses\CS234CSharp\Demos\FrameworkExampleEvent\EventTestClasses\bin\Debug\EventDBClasses.dll
+C:\Courses\CS234CSharp\Demos\FrameworkExampleEvent\EventTestClasses\bin\Debug\EventPropsClasses.dll
+C:\Courses\CS234CSharp\Demos\FrameworkExampleEvent\EventTestClasses\bin\Debug\nunit.framework.dll
+C:\Courses\CS234CSharp\Demos\FrameworkExampleEvent\EventTestClasses\bin\Debug\ToolsCSharp.dll
+C:\Courses\CS234CSharp\Demos\FrameworkExampleEvent\EventTestClasses\bin\Debug\EventClasses.pdb
+C:\Courses\CS234CSharp\Demos\FrameworkExampleEvent\EventTestClasses\bin\Debug\EventDBClasses.pdb
+C:\Courses\CS234CSharp\Demos\FrameworkExampleEvent\EventTestClasses\bin\Debug\EventPropsClasses.pdb
+C:\Courses\CS234CSharp\Demos\FrameworkExampleEvent\EventTestClasses\bin\Debug\ToolsCSharp.pdb
+C:\Courses\CS234CSharp\Demos\FrameworkExampleEvent\EventTestClasses\bin\Debug\nunit.framework.xml
+C:\Users\anuch\Desktop\CS 234N_Fall\Lab 3\FrameworkExampleEvent\EventTestClasses\bin\Debug\EventTestClasses.dll
+C:\Users\anuch\Desktop\CS 234N_Fall\Lab 3\FrameworkExampleEvent\EventTestClasses\bin\Debug\EventTestClasses.pdb
+C:\Users\anuch\Desktop\CS 234N_Fall\Lab 3\FrameworkExampleEvent\EventTestClasses\bin\Debug\EventClasses.dll
+C:\Users\anuch\Desktop\CS 234N_Fall\Lab 3\FrameworkExampleEvent\EventTestClasses\bin\Debug\EventDBClasses.dll
+C:\Users\anuch\Desktop\CS 234N_Fall\Lab 3\FrameworkExampleEvent\EventTestClasses\bin\Debug\EventPropsClasses.dll
+C:\Users\anuch\Desktop\CS 234N_Fall\Lab 3\FrameworkExampleEvent\EventTestClasses\bin\Debug\nunit.framework.dll
+C:\Users\anuch\Desktop\CS 234N_Fall\Lab 3\FrameworkExampleEvent\EventTestClasses\bin\Debug\ToolsCSharp.dll
+C:\Users\anuch\Desktop\CS 234N_Fall\Lab 3\FrameworkExampleEvent\EventTestClasses\bin\Debug\EventClasses.pdb
+C:\Users\anuch\Desktop\CS 234N_Fall\Lab 3\FrameworkExampleEvent\EventTestClasses\bin\Debug\EventDBClasses.pdb
+C:\Users\anuch\Desktop\CS 234N_Fall\Lab 3\FrameworkExampleEvent\EventTestClasses\bin\Debug\EventPropsClasses.pdb
+C:\Users\anuch\Desktop\CS 234N_Fall\Lab 3\FrameworkExampleEvent\EventTestClasses\bin\Debug\ToolsCSharp.pdb
+C:\Users\anuch\Desktop\CS 234N_Fall\Lab 3\FrameworkExampleEvent\EventTestClasses\bin\Debug\nunit.framework.xml
+C:\Users\anuch\Desktop\CS 234N_Fall\Lab 3\FrameworkExampleEvent\EventTestClasses\obj\Debug\EventTestClasses.csprojResolveAssemblyReference.cache
+C:\Users\anuch\Desktop\CS 234N_Fall\Lab 3\FrameworkExampleEvent\EventTestClasses\obj\Debug\EventTestClasses.dll
+C:\Users\anuch\Desktop\CS 234N_Fall\Lab 3\FrameworkExampleEvent\EventTestClasses\obj\Debug\EventTestClasses.pdb
+E:\FrameworkExampleEvent\EventTestClasses\obj\Debug\EventTestClasses.csprojResolveAssemblyReference.cache

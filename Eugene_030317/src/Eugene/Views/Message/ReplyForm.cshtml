@@ -1,0 +1,29 @@
+﻿@model Eugene.Models.Reply
+@*@addTagHelper *, Microsoft.AspNetCore.Mvc.Taghelpers*@
+@{
+ViewBag.Title = "Reply Message Form";
+}
+@{Layout = "_BasicLayout"; }
+
+
+<h1>Reply Message Form</h1> 
+<form asp-controller="Reply" asp-action="Replyform" method="post">
+   
+         <label asp-for="Subject">Body</label>
+         <input class="form-control" asp-for="Subject" />
+   
+        <label asp-for="Body">Body</label>
+        <input class="form-control" asp-for="Body" />
+ 
+        <label asp-for="Date">Date</label>
+        <input class="form-control" asp-for="Date" />
+ 
+        <label asp-for="From">From</label>
+        <input class="form-control" asp-for="From" />
+   
+       
+
+    <button type="submit" value="Submit">Post</button>
+    <a class="btn btn-primary" href="/Message/List">Cancel</a>
+
+</form>

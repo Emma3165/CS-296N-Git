@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<ArrayOfProductProps xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ProductProps>
+    <ID>1</ID>
+    <code>pro1</code>
+    <description>Tennis Racket</description>
+    <unitPrice>49.99</unitPrice>
+    <qty>10</qty>
+    <ConcurrencyID>0</ConcurrencyID>
+  </ProductProps>
+  <ProductProps>
+    <ID>2</ID>
+    <code>pro2</code>
+    <description>Shoes</description>
+    <unitPrice>29.99</unitPrice>
+    <qty>12</qty>
+    <ConcurrencyID>0</ConcurrencyID>
+  </ProductProps>
+</ArrayOfProductProps>

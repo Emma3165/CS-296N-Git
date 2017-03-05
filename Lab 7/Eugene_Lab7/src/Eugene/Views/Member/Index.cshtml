@@ -1,0 +1,29 @@
+﻿@model List<Eugene.Models.Member>
+
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Member List</title>
+    <link rel="stylesheet" href="~/css/StyleSheet.css" />
+</head>
+    <body>
+        <h1>List of Member</h1>
+        <table>
+            <thead>
+                <tr><td>Name</td><td>Email</td></tr>
+            </thead>
+            <tbody>
+                @foreach (var m in Model)
+                {
+                    <tr>
+                        <td>@m.Name</td>
+                        <td>@m.Email</td>
+                    </tr>
+                }
+            </tbody>
+
+        </table>
+    </body>
+
+</html>

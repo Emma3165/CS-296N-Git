@@ -1,0 +1,14 @@
+﻿@model List<RedoCommunityApp.Models.Message>
+
+<h1 class="headerStyle"> This is the messages page</h1>
+@foreach (var m in Model)
+{
+   
+    @: Topic:   @m.Topic <br />
+    @: Subject: @m.Subject <br />
+    @: Body:    @m.Body <br />
+    @: Date:    @m.Date <br /> 
+    @:From:     @m.From.Name
+     <br /> <br />
+
+}

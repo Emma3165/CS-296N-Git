@@ -1,0 +1,12 @@
+C:\Users\anuch\Desktop\CS 234N_Fall\Lab 3\FrameworkExampleEvent\EventClasses\bin\Debug\EventClasses.dll
+C:\Users\anuch\Desktop\CS 234N_Fall\Lab 3\FrameworkExampleEvent\EventClasses\bin\Debug\EventClasses.pdb
+C:\Users\anuch\Desktop\CS 234N_Fall\Lab 3\FrameworkExampleEvent\EventClasses\bin\Debug\EventDBClasses.dll
+C:\Users\anuch\Desktop\CS 234N_Fall\Lab 3\FrameworkExampleEvent\EventClasses\bin\Debug\EventPropsClasses.dll
+C:\Users\anuch\Desktop\CS 234N_Fall\Lab 3\FrameworkExampleEvent\EventClasses\bin\Debug\ToolsCSharp.dll
+C:\Users\anuch\Desktop\CS 234N_Fall\Lab 3\FrameworkExampleEvent\EventClasses\bin\Debug\EventDBClasses.pdb
+C:\Users\anuch\Desktop\CS 234N_Fall\Lab 3\FrameworkExampleEvent\EventClasses\bin\Debug\EventPropsClasses.pdb
+C:\Users\anuch\Desktop\CS 234N_Fall\Lab 3\FrameworkExampleEvent\EventClasses\bin\Debug\ToolsCSharp.pdb
+C:\Users\anuch\Desktop\CS 234N_Fall\Lab 3\FrameworkExampleEvent\EventClasses\obj\Debug\EventClasses.csprojResolveAssemblyReference.cache
+C:\Users\anuch\Desktop\CS 234N_Fall\Lab 3\FrameworkExampleEvent\EventClasses\obj\Debug\EventClasses.dll
+C:\Users\anuch\Desktop\CS 234N_Fall\Lab 3\FrameworkExampleEvent\EventClasses\obj\Debug\EventClasses.pdb
+E:\FrameworkExampleEvent\EventClasses\obj\Debug\EventClasses.csprojResolveAssemblyReference.cache

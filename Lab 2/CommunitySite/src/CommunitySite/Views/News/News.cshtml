@@ -1,0 +1,29 @@
+﻿@model CommunitySite.Models.News[]
+
+@{
+    ViewData["Title"] = "News";
+    
+}
+<div class="row">
+    <div class="col-sm-2"></div>
+    <div class="col-sm-8">
+        <h2>Alton Baker Park Community News Page</h2>
+        
+        <table> 
+            <tbody>
+                @foreach (CommunitySite.Models.News n in Model)
+                {
+                    <tr><td><h2>@n.Title</h2></td></tr>
+                    <tr>
+                        <td><h3>@n.Date</h3></td>
+                    </tr>
+                    <tr>
+                        <td>@n.Story</td>
+                    </tr>
+
+                }
+            </tbody>
+        </table>
+    </div>
+    <div class="col-sm-2"></div>
+</div>

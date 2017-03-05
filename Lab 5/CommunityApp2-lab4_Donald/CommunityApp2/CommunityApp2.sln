@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{258AA887-67A3-45E5-A2D6-42D2A293B8D1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{1AE49EAD-57CF-4C6D-BC9D-7BE738BCC4C8}"
+	ProjectSection(SolutionItems) = preProject
+		global.json = global.json
+	EndProjectSection
+EndProject
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "RedoCommunityApp", "src\RedoCommunityApp\RedoCommunityApp.xproj", "{3DDC1E60-1355-4232-86B1-F2574AA6F212}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{A2102B5E-E077-4A3F-86F1-3C55D6AD092C}"
+EndProject
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "RedoCommunityApp.Test", "tests\RedoCommunityApp.Test\RedoCommunityApp.Test.xproj", "{0BB6A58C-FBC6-4C45-9A41-32ADAF787C1F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3DDC1E60-1355-4232-86B1-F2574AA6F212}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DDC1E60-1355-4232-86B1-F2574AA6F212}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DDC1E60-1355-4232-86B1-F2574AA6F212}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DDC1E60-1355-4232-86B1-F2574AA6F212}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0BB6A58C-FBC6-4C45-9A41-32ADAF787C1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BB6A58C-FBC6-4C45-9A41-32ADAF787C1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BB6A58C-FBC6-4C45-9A41-32ADAF787C1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BB6A58C-FBC6-4C45-9A41-32ADAF787C1F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{3DDC1E60-1355-4232-86B1-F2574AA6F212} = {258AA887-67A3-45E5-A2D6-42D2A293B8D1}
+		{0BB6A58C-FBC6-4C45-9A41-32ADAF787C1F} = {A2102B5E-E077-4A3F-86F1-3C55D6AD092C}
+	EndGlobalSection
+EndGlobal

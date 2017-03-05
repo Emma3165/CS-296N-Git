@@ -1,0 +1,32 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+    <style>
+        .headerStyle {
+            padding: 20px;
+            border: solid medium black;
+            font-size: 20pt;
+        }
+
+        
+    </style>
+</head>
+<body>
+   
+    <div >
+        @RenderBody()
+    </div>
+    @Html.ActionLink("Show all Messages", "Index", "Message")<br />
+    @Html.ActionLink("Show all Members", "Index", "Member")<br />
+
+
+    @Html.ActionLink("Show database messages", "MessagesByTopic", "Message",
+    new { topic = "database" })<br />
+
+    @Html.ActionLink("Show fun messages", "MessagesBySubject", "Message",
+    new { subject = "fun" })<br />
+</body>
+</html>

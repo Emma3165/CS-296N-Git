@@ -1,0 +1,39 @@
+﻿@model IEnumerable<Eugene.Models.Message>
+
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Message Title</title>
+    <link rel="stylesheet" href="~/css/StyleSheet.css" />
+</head>
+    <body>
+        <h1>List of Messages</h1>
+        <table>
+            <thead>
+                <tr>
+                    <td>Subject</td>
+                    <td>Body</td>
+                    <td>Date</td>
+                    <td>From</td>
+                    <td>Topic</td>
+                </tr>
+            </thead>
+            <tbody>
+
+                @foreach (var m in Model)
+                {
+                    <tr>
+                        <td>@m.Subject</td>
+                        <td>@m.Body</td>
+                        <td>@m.Date.ToString("dd/MM/yyyy")</td>
+                        <td>@m.From</td>
+                        <td>@m.Topic</td>
+                    </tr>
+                }
+            </tbody>
+
+        </table>
+    </body>
+
+</html>

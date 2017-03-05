@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<ArrayOfProductProps xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ProductProps>
+    <ID>1</ID>
+    <code>test 1</code>
+    <description>This is a test 1</description>
+    <unitPrice>100</unitPrice>
+    <qty>10</qty>
+    <ConcurrencyID>6</ConcurrencyID>
+  </ProductProps>
+  <ProductProps>
+    <ID>2</ID>
+    <code>test 2</code>
+    <description>This is a test 2</description>
+    <unitPrice>200</unitPrice>
+    <qty>20</qty>
+    <ConcurrencyID>6</ConcurrencyID>
+  </ProductProps>
+  <ProductProps>
+    <ID>3</ID>
+    <code />
+    <description />
+    <unitPrice>0.0</unitPrice>
+    <qty>0</qty>
+    <ConcurrencyID>1</ConcurrencyID>
+  </ProductProps>
+</ArrayOfProductProps>

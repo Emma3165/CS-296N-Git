@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<ArrayOfCustomerProps xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <CustomerProps>
+    <CustomerID>1</CustomerID>
+    <name>John Smith</name>
+    <address>678 Main st.</address>
+    <city>Springfield</city>
+    <state>Oregon</state>
+    <zipcode>97402-9867</zipcode>
+    <ConcurrencyID>6</ConcurrencyID>
+  </CustomerProps>
+  <CustomerProps>
+    <CustomerID>2</CustomerID>
+    <name>Sandra Bullock</name>
+    <address>3365 W. 11th. Ave.</address>
+    <city>Eugene</city>
+    <state>OR</state>
+    <zipcode>97401</zipcode>
+    <ConcurrencyID>7</ConcurrencyID>
+  </CustomerProps>
+  <CustomerProps>
+    <CustomerID>3</CustomerID>
+    <name />
+    <address />
+    <city />
+    <state />
+    <zipcode />
+    <ConcurrencyID>1</ConcurrencyID>
+  </CustomerProps>
+</ArrayOfCustomerProps>

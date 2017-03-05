@@ -1,0 +1,22 @@
+﻿@model RedoCommunityApp.Models.Message
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+
+@{
+    ViewBag.Title = "Add Message";
+}
+<h1>Add Your Message</h1>
+
+
+<form asp-controller="Message" asp-action="MessageForm" method="post">
+    
+    <label asp-for="Topic"></label>
+    <input asp-for="Topic" />
+    <br/>
+    <label asp-for="Subject"></label>
+    <input asp-for="Subject" />
+    <br/>
+    <label asp-for="Body"></label>
+    <input asp-for="Body" />
+    <br/>
+    <button type="submit">Post</button>
+</form>

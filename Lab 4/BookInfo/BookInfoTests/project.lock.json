@@ -1,0 +1,16 @@
+{
+  "locked": false,
+  "version": 2,
+  "targets": {},
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    "": [
+      "BookInfo >= 1.0.0",
+      "Microsoft..NETCore.App >= 1.0.1",
+      "dotnet-test-xunit >= 2.2.0-preview2-build1029",
+      "xunit >= 2.1.0"
+    ]
+  },
+  "tools": {},
+  "projectFileToolGroups": {}
+}

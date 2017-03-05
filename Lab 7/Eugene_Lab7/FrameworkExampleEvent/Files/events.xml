@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<ArrayOfEventProps xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventProps>
+    <ID>2</ID>
+    <userID>2</userID>
+    <date>2016-11-09T21:36:08.9728634-08:00</date>
+    <title>Second Event</title>
+    <description>This is the description of the second event</description>
+    <ConcurrencyID>0</ConcurrencyID>
+  </EventProps>
+  <EventProps>
+    <ID>1</ID>
+    <userID>2</userID>
+    <date>2016-11-09T21:36:08.9728634-08:00</date>
+    <title>Edited Event</title>
+    <description>This is the description of the first event</description>
+    <ConcurrencyID>1</ConcurrencyID>
+  </EventProps>
+</ArrayOfEventProps>

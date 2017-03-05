@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{AEB01B76-BE3B-4C00-BF31-D7CF15E114D3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{21DC5C91-4C59-410C-909F-AEFDC9E0B78C}"
+	ProjectSection(SolutionItems) = preProject
+		global.json = global.json
+	EndProjectSection
+EndProject
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "CommunitySite", "src\CommunitySite\CommunitySite.xproj", "{945A4BCD-2F8C-4EAB-BC25-A6DBD779399A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Test", "Test", "{94F35AFB-B4B4-49B0-941B-9DEAC88DCC6C}"
+EndProject
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "CommunitySiteTests", "CommunitySiteTests\CommunitySiteTests.xproj", "{3E15752F-F804-4E9B-8527-D145887020DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{945A4BCD-2F8C-4EAB-BC25-A6DBD779399A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{945A4BCD-2F8C-4EAB-BC25-A6DBD779399A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{945A4BCD-2F8C-4EAB-BC25-A6DBD779399A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{945A4BCD-2F8C-4EAB-BC25-A6DBD779399A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E15752F-F804-4E9B-8527-D145887020DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E15752F-F804-4E9B-8527-D145887020DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E15752F-F804-4E9B-8527-D145887020DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E15752F-F804-4E9B-8527-D145887020DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{945A4BCD-2F8C-4EAB-BC25-A6DBD779399A} = {AEB01B76-BE3B-4C00-BF31-D7CF15E114D3}
+		{3E15752F-F804-4E9B-8527-D145887020DF} = {94F35AFB-B4B4-49B0-941B-9DEAC88DCC6C}
+	EndGlobalSection
+EndGlobal

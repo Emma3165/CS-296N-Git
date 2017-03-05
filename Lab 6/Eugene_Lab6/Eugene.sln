@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{E34848AF-426C-4DAC-A50F-CD7D7432D0ED}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{B3977CA2-1455-4889-AE6D-16EC8FE7C04D}"
+	ProjectSection(SolutionItems) = preProject
+		global.json = global.json
+	EndProjectSection
+EndProject
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "Eugene", "src\Eugene\Eugene.xproj", "{FA8EE31E-6F74-4E2D-8C60-3A2276BA803F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{935C1580-B4A2-4CD5-871A-EE5FCD08FF6C}"
+EndProject
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "Eugene.Tests", "Eugene.Tests\Eugene.Tests.xproj", "{19F22B8C-07EB-4CC1-BAEE-49E4A8830D80}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA8EE31E-6F74-4E2D-8C60-3A2276BA803F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA8EE31E-6F74-4E2D-8C60-3A2276BA803F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA8EE31E-6F74-4E2D-8C60-3A2276BA803F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA8EE31E-6F74-4E2D-8C60-3A2276BA803F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19F22B8C-07EB-4CC1-BAEE-49E4A8830D80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19F22B8C-07EB-4CC1-BAEE-49E4A8830D80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19F22B8C-07EB-4CC1-BAEE-49E4A8830D80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19F22B8C-07EB-4CC1-BAEE-49E4A8830D80}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{FA8EE31E-6F74-4E2D-8C60-3A2276BA803F} = {E34848AF-426C-4DAC-A50F-CD7D7432D0ED}
+		{19F22B8C-07EB-4CC1-BAEE-49E4A8830D80} = {935C1580-B4A2-4CD5-871A-EE5FCD08FF6C}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,16 @@
+C:\Users\anuch\Desktop\CS 234N_Fall\Lab 3\FrameworkExampleEvent\EventProps\bin\Debug\EventPropsClasses.dll
+C:\Users\anuch\Desktop\CS 234N_Fall\Lab 3\FrameworkExampleEvent\EventProps\bin\Debug\EventPropsClasses.pdb
+C:\Users\anuch\Desktop\CS 234N_Fall\Lab 3\FrameworkExampleEvent\EventProps\bin\Debug\ToolsCSharp.dll
+C:\Users\anuch\Desktop\CS 234N_Fall\Lab 3\FrameworkExampleEvent\EventProps\bin\Debug\ToolsCSharp.pdb
+C:\Users\anuch\Desktop\CS 234N_Fall\Lab 3\FrameworkExampleEvent\EventProps\obj\Debug\EventPropsClasses.csprojResolveAssemblyReference.cache
+C:\Users\anuch\Desktop\CS 234N_Fall\Lab 3\FrameworkExampleEvent\EventProps\obj\Debug\EventPropsClasses.dll
+C:\Users\anuch\Desktop\CS 234N_Fall\Lab 3\FrameworkExampleEvent\EventProps\obj\Debug\EventPropsClasses.pdb
+C:\Users\anuch\Desktop\CS 234N_Fall\Lab 3\FrameworkExampleEvent\EventProps\bin\Debug\EventPropsClasses.dll.CodeAnalysisLog.xml
+C:\Users\anuch\Desktop\CS 234N_Fall\Lab 3\FrameworkExampleEvent\EventProps\bin\Debug\EventPropsClasses.dll.lastcodeanalysissucceeded
+E:\FrameworkExampleEvent\EventProps\bin\Debug\EventPropsClasses.dll
+E:\FrameworkExampleEvent\EventProps\bin\Debug\EventPropsClasses.pdb
+E:\FrameworkExampleEvent\EventProps\bin\Debug\ToolsCSharp.dll
+E:\FrameworkExampleEvent\EventProps\bin\Debug\ToolsCSharp.pdb
+E:\FrameworkExampleEvent\EventProps\obj\Debug\EventPropsClasses.csprojResolveAssemblyReference.cache
+E:\FrameworkExampleEvent\EventProps\obj\Debug\EventPropsClasses.dll
+E:\FrameworkExampleEvent\EventProps\obj\Debug\EventPropsClasses.pdb

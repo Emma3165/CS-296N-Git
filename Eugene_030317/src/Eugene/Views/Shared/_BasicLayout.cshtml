@@ -1,0 +1,25 @@
+﻿
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <link rel="stylesheet" href="~/css/StyleSheet.css" />
+</head>
+<body>
+    <ul>
+        <li>@Html.ActionLink("Home", "Index", "Home")</li>
+        <li>@Html.ActionLink("History", "History", "Home")</li>
+        <li>@Html.ActionLink("Message", "List", "Message")</li>
+        <li>@Html.ActionLink("Member", "Index", "Member")</li>
+        <li>@Html.ActionLink("About", "About", "Home")</li>
+      
+    </ul>
+    <div>
+        @RenderBody()
+    </div>
+</body>
+</html>
